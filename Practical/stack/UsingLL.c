@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
-#include <stdio.h>
-#include <stdlib.h>
+
 
 // Structure to create a node with data and the next pointer
 struct node {
